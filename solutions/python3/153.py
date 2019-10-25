@@ -1,0 +1,2 @@
+class Solution:
+    findMin = min
